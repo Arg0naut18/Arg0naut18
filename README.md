@@ -8,7 +8,7 @@
 
 ## Other Details
 - 👋 Hi, I’m @Arg0naut18
-- 🌱 I’m currently learning discord.py
+- 🌱 I’m currently learning discord.py and basics of JavaScript.
 - 📫 How to reach me? DM me on discord. Username: αяgσηαυт#6921
 
 ## Discord

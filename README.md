@@ -1,6 +1,6 @@
 ## Arg0naut18
 
-![Arg0naut's GitHub stats](https://readme-github-stats.now.sh/api?username=Arg0naut18&show_icons=true&theme=dark&hide=contribs,prs&count_private=true)
+![Arg0naut's GitHub stats](https://readme-github-stats.now.sh/api?username=Arg0naut18&show_icons=true&count_private=true&theme=dark&hide=contribs,prs)
 
 ## Top Repo
 

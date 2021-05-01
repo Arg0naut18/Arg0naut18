@@ -1,4 +1,4 @@
-[![Arg0naut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arg0naut18)](https://github.com/anuraghazra/github-readme-stats)
+[![Arg0naut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arg0naut18)]
 
 ## Other Details
 - 👋 Hi, I’m @Arg0naut18

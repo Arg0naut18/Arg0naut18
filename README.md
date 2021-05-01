@@ -2,6 +2,10 @@
 
 ![Arg0naut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arg0naut18&show_icons=true&theme=dark)
 
+## Top Repo
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=divine&theme=dark)
+
 ## Other Details
 - 👋 Hi, I’m @Arg0naut18
 - 🌱 I’m currently learning discord.py

@@ -1,6 +1,6 @@
 ## Arg0naut18
 
-[![Arg0naut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arg0naut18&show_icons=true&theme=dark)](https://github.com/Arg0naut18/divine)
+![Arg0naut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arg0naut18&show_icons=true&theme=dark&hide=contribs,prs)
 
 ## Top Repo
 

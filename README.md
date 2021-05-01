@@ -4,7 +4,7 @@
 
 ## Top Repo
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=AI-internship&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=divine&theme=dark)
 
 ## Other Details
 - 👋 Hi, I’m @Arg0naut18

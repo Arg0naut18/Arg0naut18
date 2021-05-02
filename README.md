@@ -2,7 +2,7 @@
 
 ![Arg0naut's GitHub stats](https://readme-github-stats.now.sh/api?username=Arg0naut18&theme=dark&show&icons=true)
 
-## Languages
+## Weekly Stats
 
 ![Arg0naut's wakatime stats](https://readme-github-stats.now.sh/api/wakatime/?username=Arg0naut18&theme=dark&show&icons=true)
 

@@ -4,7 +4,7 @@
 
 ## Languages
 
-![Arg0naut's wakatime stats](https://readme-github-stats.now.sh/api/wakatime/?username=Arg0naut18&theme=blue-green&show&icons=true)
+![Arg0naut's wakatime stats](https://readme-github-stats.now.sh/api/wakatime/?username=Arg0naut18&theme=dark&show&icons=true)
 
 ## Top Repo
 

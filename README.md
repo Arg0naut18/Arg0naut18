@@ -6,7 +6,7 @@
 
 <!---![Arg0naut's wakatime stats](https://readme-github-stats.now.sh/api/wakatime/?username=Arg0naut18&theme=dark&show&icons=true)
 <figure><embed src="https://wakatime.com/share/@Arg0naut18/2288b98c-e2ee-4ccc-b48f-955ca9fff7e7.svg"></embed></figure>--->
-![Arg0naut's wakatime stats](https://wakatime.com/share/@Arg0naut18/2288b98c-e2ee-4ccc-b48f-955ca9fff7e7.svg)
+![Arg0naut's wakatime stats](https://wakatime.com/share/@Arg0naut18/2288b98c-e2ee-4ccc-b48f-955ca9fff7e7.svg&height=50&width=50)
 
 ## Top Repo
 

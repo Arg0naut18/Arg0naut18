@@ -9,9 +9,10 @@
 <figure><img src="https://wakatime.com/share/@Arg0naut18/15404fb5-3baa-4469-8581-2cbae66f1054.svg" height=400 width=600/></figure>
 <!---![Arg0naut's wakatime stats](https://wakatime.com/share/@Arg0naut18/2288b98c-e2ee-4ccc-b48f-955ca9fff7e7.svg)--->
 
-## Top Repo
+## Top Repos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=JavaScriptBot&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=NSB&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=SudokuSolver&theme=dark)
 
 ## Other Details
 

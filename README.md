@@ -13,7 +13,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=NSB&theme=dark)
 <br><br>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=SudokuSolver&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arg0naut18&repo=yolov8&theme=dark)
 
 ## Other Details
 
